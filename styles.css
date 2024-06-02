@@ -1,11 +1,14 @@
 /* Styles.css */
 
+* {
+    background-color: darkgoldenrod;
+}
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: x-large;
     font-weight: bold;
-    color: darkolivegreen;
+    color: aliceblue;
 } 
-    
+
 
 
