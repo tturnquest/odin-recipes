@@ -2,17 +2,17 @@
 
 * {
     background-color: darkgoldenrod;
-    color: aliceblue;
+    color: darkblue;
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
+    font-size: 36px;
     font-weight: bolder;
 } 
 
 li {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: large;
     font-weight: lighter;
 }
 
