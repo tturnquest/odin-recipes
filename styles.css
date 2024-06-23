@@ -1,29 +1,21 @@
 /* Styles.css */
-
-* {
-    background-color: aliceblue;
-    border: 10px whitesmoke;
-    margin: 10px;
-    color: whitesmoke;
-}
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     margin-bottom: 10px;
+    border: 8px white;
+    padding: 30px;
 }
 h1 {
     font-size: 36px;
     font-weight: bolder;
     background-color: cadetblue;
-    border: 8px white;
-    padding: 30px;
 } 
 
 .pages {
     font-size: large;
     font-weight: lighter;
     margin-bottom: 10px;
-    background-color: darkslateblue;
     padding: 24px;
     display: inline-block;
 }
@@ -31,7 +23,7 @@ h1 {
 
 }
 .absit {
-    
+
 }
 .injera {
 
