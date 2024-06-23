@@ -2,27 +2,22 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin-bottom: 10px;
-    border: 8px white;
-    padding: 60px;
-    color:white;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
 }
 .heading {
     background-color: cadetblue;
 } 
-
-.pages {
-    margin-bottom: 10px;
-    padding: 24px;
-    display: inline-block;
-}
 .page-ersho {
-
+    background-color: cadetblue;
 }
 .page-absit {
 
 }
 .page-injera {
-
+ 
 }
 
